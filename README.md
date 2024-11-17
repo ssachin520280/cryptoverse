@@ -1,7 +1,7 @@
 <div align="center">
   <h1 align="center">Cryptoverse</h1>
   <h2 align="center">Explore the wrold of cryptocurrency</h2>
-  <h3>Live Preview: <a href="https://cryptoverse.vercel.app/">cryptoverse</a></h3>
+  <h3>Live Preview: <a href="https://cryptoverse-one-xi.vercel.app/">cryptoverse-one-xi.vercel.app</a></h3>
 
 </div>
 
