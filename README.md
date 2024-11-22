@@ -22,6 +22,7 @@
 - React.js
 - JavaScript
 - CSS
+- RapidAPI
 
 ## <a name="features">🔋 Features</a>
 
